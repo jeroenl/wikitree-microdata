@@ -14,6 +14,7 @@ There are a few different ways you can install wikitree-api:
 To retrieve data, use the classes in the `wikitree.public` package. Each requires an identifier or full URL to be passed when creating the object. For example:
 
 ```python
+# Pass an identifier or full URL
 p = Person('Sloan-518')
 p2 = Person('http://www.wikitree.com/wiki/Carvell-50')
 
