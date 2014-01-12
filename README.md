@@ -6,7 +6,7 @@ This library provides access to WikiTree genealogical data. It uses the microdat
 
 There are a few different ways you can install wikitree-api:
 
-* Download the zipfile from the [releases](https://github.com/jeroenl/wikitree-api/releases) page and install it. 
+* Download the zipfile with the [latest code](https://github.com/jeroenl/wikitree-api/archive/master.zip) and install it. 
 * Checkout the source: `git clone git://github.com/jeroenl/wikitree-api` and install it yourself.
 
 ## Usage
