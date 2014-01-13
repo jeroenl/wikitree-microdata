@@ -2,6 +2,10 @@
 
 This library provides access to WikiTree genealogical data. It uses the microdata embedded in WikiTree's public pages.
 
+## Prerequisites
+* Python 3.0 or higher
+* The `microdata` library. A version compatible with Python 3.0 is available [here](https://github.com/jeroenl/microdata).
+
 ## Installation
 
 There are a few different ways you can get the wikitree-api library:
